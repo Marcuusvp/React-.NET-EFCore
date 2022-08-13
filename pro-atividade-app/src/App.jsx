@@ -9,7 +9,7 @@ function App() {
   const [atividade, setAtividade] = useState({id:0});
 
   useEffect(() => {
-    atividades.length <= 0 ? setIndex() : setIndex(Math.max.apply(Math, atividades.map(item => item.id)) + 1)
+    atividades.length <= 0 ? setIndex(1) : setIndex(Math.max.apply(Math, atividades.map(item => item.id)) + 1)
   },[atividades])
 
   function addAtividade(ativ) {
