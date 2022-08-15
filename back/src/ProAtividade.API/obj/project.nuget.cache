@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vu7VRJH0YM3eyNLE537c/rIGQr6mU0VEw53G09YGki2Q4CVn0EMYVSntGjgrwJKvzf5rNpZVE0St4tuD3PX2tQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marcus\\Desktop\\DevQuest\\React-Aspnet-Core\\back\\src\\ProAtividade.API\\ProAtividade.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marcus\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Marcus\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Marcus\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Marcus\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Marcus\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Marcus\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
