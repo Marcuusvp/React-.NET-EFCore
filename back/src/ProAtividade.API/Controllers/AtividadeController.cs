@@ -24,18 +24,18 @@ namespace ProAtividade.API.Controllers
         }
 
         [HttpGet("{id}")]
-        public Atividade get(int id)
+        public Atividade Get(int id)
         {
             return _context.Atividades.FirstOrDefault(ati => ati.Id == id);
         }
 
         [HttpPost]
-        public IEnumerable<Atividade> post(Atividade atividade)
+        public Atividade Post(Atividade atividade)
         {
             _context.Atividades.Add(atividade);
             if (_context.SaveChanges() > 0)
             {
-                return _context.Atividades;
+                return atividade;
             }
             else
             {
