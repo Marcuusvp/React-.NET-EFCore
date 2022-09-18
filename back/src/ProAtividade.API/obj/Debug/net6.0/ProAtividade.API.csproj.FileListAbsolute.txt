@@ -52,3 +52,7 @@ C:\Users\Marcus\Desktop\DevQuest\React-Aspnet-Core\back\src\ProAtividade.API\bin
 C:\Users\Marcus\Desktop\DevQuest\React-Aspnet-Core\back\src\ProAtividade.API\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\Marcus\Desktop\DevQuest\React-Aspnet-Core\back\src\ProAtividade.API\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Marcus\Desktop\DevQuest\React-Aspnet-Core\back\src\ProAtividade.API\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Marcus\Desktop\DevQuest\React-Aspnet-Core\back\src\ProAtividade.API\bin\Debug\net6.0\ProAtividade.Data.dll
+C:\Users\Marcus\Desktop\DevQuest\React-Aspnet-Core\back\src\ProAtividade.API\bin\Debug\net6.0\ProAtividade.Domain.dll
+C:\Users\Marcus\Desktop\DevQuest\React-Aspnet-Core\back\src\ProAtividade.API\bin\Debug\net6.0\ProAtividade.Data.pdb
+C:\Users\Marcus\Desktop\DevQuest\React-Aspnet-Core\back\src\ProAtividade.API\bin\Debug\net6.0\ProAtividade.Domain.pdb
